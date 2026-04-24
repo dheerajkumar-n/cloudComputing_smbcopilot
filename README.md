@@ -315,9 +315,4 @@ smb-copilot/
 
 ---
 
-## Academic References
-See [PROJECT_REPORT.md](PROJECT_REPORT.md) for full research-style analysis including:
-- System design trade-offs
-- Quantitative latency and cost evaluation
-- Scalability analysis
-- Limitations and future work
+
